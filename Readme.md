@@ -5,3 +5,5 @@ The website is made by Pranav Veeraghanta and Srujan Rajesh Kumar, Students of B
     10/12/2023 :
       -> made the items non-scrollable irrespective of screen size.
       -> added a readme.md to the github repository.
+      -> changed position of limited items on home page to above the about us section because it makes sense.
+      -> working on making the cart better.
