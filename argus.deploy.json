@@ -1,0 +1,11 @@
+{
+  "branch": "main",
+  "type": "static",
+  "isPrimaryDomain": false,
+  "pm2Config": null,
+  "application": "grocery",
+  "repository": "git@github.com:pranav1211/Grosto-Pranav-Ve.git",
+  "deploymentPath": "/projects/grocery",
+  "domain": "grocery.beyondmebtw.com",
+  "nginxConfig": null
+}
